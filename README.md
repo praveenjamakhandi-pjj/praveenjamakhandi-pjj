@@ -7,7 +7,7 @@ I’m currently strengthening my fundamentals in programming, web development, d
 🚀 About Me
 🐍 Learning and building with Python
 🌐 Developing websites with HTML, CSS & JavaScript
-⚙️ Strengthening my programming fundamentals with C
+⚙️ Strengthening my programming fundamentals with Python
 🧠 Practicing Data Structures & Algorithms
 🔨 Building projects to turn ideas into working software
 📚 Continuously learning new technologies and improving my problem-solving skills
